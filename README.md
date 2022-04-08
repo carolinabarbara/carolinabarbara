@@ -1,4 +1,4 @@
-# Hello! Eu sou a Carolina Barbara
+# Olá! Eu sou a Carolina Barbara
 
 - 🌱  Estudo programação 💻 Back End
 - 🧑‍🎓  Sou aluna do {REPROGRAMA} 😍
