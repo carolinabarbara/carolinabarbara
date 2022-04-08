@@ -3,7 +3,8 @@
 - 🌱  Estudo programação 💻 Back End
 - 🧑‍🎓  Sou aluna do {REPROGRAMA} 😍
 - ✨  Pronome: She / Her 👧
-- ✊🏿  Mulher preta / periferica em transição de carreira
+- ✊🏿  Mulher preta, periferica em transição de carreira
+- ✈️  Amo viajar e conhecer novos lugares
 
 
 
