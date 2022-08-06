@@ -3,7 +3,7 @@
 - 🌱  Estudo programação 💻 Back End
 - 👩🏿‍🎓  Sou aluna da {REPROGRAMA} 😍
 - ✨  Pronomes: She / Her 👧🏽
-- ✊🏿  Mulher preta, periferica em transição de carreira
+- ✊🏿  Mulher preta, em transição de carreira
 - ✈️  Amo viajar e conhecer novos lugares
 
 <a href="https://github.com/carolinabarbara">
