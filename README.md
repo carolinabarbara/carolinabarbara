@@ -1,7 +1,8 @@
 # Olá! Eu sou a Carolina Barbara
 
 - 🌱  Estudo programação 💻 Back End
-- 👩🏿‍🎓  Sou aluna da {REPROGRAMA} 😍
+- 👩🏿‍🎓  Aluna PretaLab ✨
+- 👩🏿‍🎓  Ex-aluna da {REPROGRAMA} 😍
 - ✨  Pronomes: She / Her 👧🏽
 - ✊🏿  Mulher preta, em transição de carreira
 - ✈️  Amo viajar e conhecer novos lugares
