@@ -1,10 +1,10 @@
 # Olá! Eu sou a Carolina Barbara
 
-- 🌱  Estudo programação 💻
+- 🌱  Front-end Developer | ReactJS | JavaScript 💻
 - 👩🏿‍🎓  Aluna PretaLab ✨
 - 👩🏿‍🎓  Ex-aluna da {REPROGRAMA} 😍
 - ✨  Pronomes: She / Her 👧🏽
-- ✊🏿  Mulher preta, em transição de carreira
+- ✊🏿  Mulher preta
 - ✈️  Amo viajar e conhecer novos lugares
 
 <a href="https://github.com/carolinabarbara">
